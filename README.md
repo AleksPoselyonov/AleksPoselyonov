@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AleksPoselyonov
+- 🌱 I’m currently learning Unity C#
